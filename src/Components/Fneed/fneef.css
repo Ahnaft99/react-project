@@ -1,0 +1,27 @@
+#feature{
+    background-color: #1C1E53;
+    padding: 50px;
+}
+.feature_left h2{
+    font-size: 48px;
+    font-weight: 600;
+    color: white;
+}
+.feature_left p{
+    font-size: 16px;
+    font-weight: 300;
+    color: white;
+}
+.feature_left a{
+    padding: 5px 15px;
+    border: 1px solid #FCD980;
+    background-color: #FCD980;
+    border-radius: 15px;
+    text-decoration: none;
+    color: black !important;
+    font-weight: 600;
+    font-size: 18px;
+}
+.feature_right img{
+    width: 600px;
+}

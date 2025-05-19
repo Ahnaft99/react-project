@@ -1,0 +1,13 @@
+.head{
+    background-color: #1C1E53 !important;
+}
+.navbar-nav a{
+    color: white !important;
+}
+button{
+    padding: 7px 20px;
+    border: 1px solid white !important;
+    background-color: #1C1E53 !important;
+    border-radius: 20px !important;
+    color: white;
+}

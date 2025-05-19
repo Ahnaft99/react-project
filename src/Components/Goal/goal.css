@@ -1,0 +1,15 @@
+#goal{
+    background-color: white;
+    padding: 50px;
+}
+.gray{
+    background-color: #F4F5F5;
+    padding: 30px 20px;
+}
+.goal_left p{
+    color: black !important;
+}
+.goal_img img{
+    width: 1100px;
+    text-align: center;
+}

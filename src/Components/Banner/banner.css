@@ -1,0 +1,32 @@
+#banner {
+ background-color: #383A68;
+ padding: 100px 0;
+}
+h1{
+    font-size: 54px !important;
+    font-weight: 600 !important;
+    color: white !important;
+}
+p{
+    font-size: 16px !important;
+    font-weight: 300 !important;
+    color: white !important;
+    padding-top: 10px !important;
+}
+.btn{
+    color: black;
+    background-color: #FCD980 !important;
+    border-radius: 15px;
+    padding: 0 10px;
+    margin: 0 10px;
+}
+a{
+    text-decoration: none !important;
+    color: white !important;
+    font-size: 16px;
+    font-weight: 300;
+
+}
+.right{
+    width: 600px;
+}

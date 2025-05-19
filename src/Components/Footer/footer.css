@@ -1,0 +1,41 @@
+#footer{
+    background-color: #1C1E53;
+    padding: 50px 0;
+}
+.footer_left p{
+    font-size: 16px;
+    font-weight: 400;
+    color: white !important;
+}
+.footer_left .contact{
+    width: 400px;
+    background-color: #FCD980;
+    padding: 0 10PX ;
+    
+}
+.footer_left .contact p{
+    font-size: 16px;
+    font-weight: 600 !important;
+    color: black !important;
+}
+.footer_left .contact p span{
+    font-size: 16px;
+    font-weight: 400;
+    color: black !important;
+    padding-left: 90px;
+}
+.footer_left .contact .c_details p span{
+    margin-left: -60px;
+}
+.footer_right h3{
+ font-size: 48px;
+ font-weight: 600;
+ color: white;
+ padding-bottom: 40px;
+}
+.footer_icons a{
+    padding: 0 10px;
+}
+.footer_icons {
+    padding-top: 40px;
+}

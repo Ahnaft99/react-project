@@ -1,0 +1,38 @@
+#faq{
+    background-color: white;
+    padding: 50px 0;
+}
+.faq_left h2{
+    font-size: 36px;
+    font-weight: 600;
+    color: black;
+
+}
+.faq_left a{
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: 300;
+    color: #2405F2 !important;
+}
+.faq_right ul li span{
+    font-size: 24px;
+    font-weight: 600;
+    color: #2405F2;
+    padding-right: 40px;
+}
+.faq_right ul li h3{
+    font-size: 24px;
+    font-weight: 600;
+    color: black;
+    
+}
+.faq_right ul li p{
+    font-size: 18px;
+    font-weight: 600;
+    color: #282938 !important;
+    width: 400px;
+    padding-left: 30px;
+}
+ul{
+    list-style: none;
+}

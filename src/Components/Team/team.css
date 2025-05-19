@@ -1,0 +1,24 @@
+#team{
+    background-color: #E5E5E5;
+    padding: 50px 0;
+}
+.team_head h1{
+    font-size: 48px;
+    font-weight: 700;
+    color: black !important;
+    text-align: center;
+}
+.team_item{
+    background-color: #F4F6FC;
+    padding: 20px 10px;
+}
+.team_item h3{
+    font-size: 24px;
+    font-weight: 600;
+    color: black;
+}
+.team_item p{
+    font-size: 16px;
+    font-weight: 300;
+    color: #282938 !important;
+}

@@ -1,0 +1,30 @@
+#work{
+    background-color: #F4F6FC;
+    padding: 50px 0;
+}
+.work_left h2{
+ font-size: 48px;
+ font-weight: 600;
+ color: black;
+}
+.work_left p{
+    font-size: 16px !important;
+ font-weight: 300 !important;
+ color: #282938 !important; 
+}
+.work_left a{
+    font-size: 18px !important;
+    font-weight: 600 !important;
+    color: #2405F2 !important;
+    text-decoration: none; 
+}
+.work_right h3{
+    font-size: 32px !important;
+    font-weight: 600 !important;
+    color: black !important;
+}
+.work_right p{
+    font-size: 16px;
+    font-weight: 300;
+    color: #282938 !important;
+}

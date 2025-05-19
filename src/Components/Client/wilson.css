@@ -1,0 +1,22 @@
+#wilson{
+    background-color: #F4F6FC !important;
+    padding: 50px 0;
+}
+.wilson_left h4{
+    font-size: 38px;
+    font-weight: 600;
+    color: black;
+}
+.wilson_left p{
+    font-size: 16px;
+    font-weight: 300;
+    color: #282938 !important;
+}
+.wilson_right h2{
+    font-size: 32px;
+    font-weight: 600;
+    text-align: justify;
+}
+.wilson_right{
+    width: 600px;
+}

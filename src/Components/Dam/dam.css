@@ -1,0 +1,92 @@
+#dam{
+    background-color: white;
+    padding: 100px 0;
+}
+.dam_head h2{
+    font-size: 48px;
+    color: #282938 !important;
+    font-weight: 700;
+    text-align: center;
+    padding-bottom: 20px;
+}
+.dam_head p{
+    font-size: 18px;
+    color: #282938 !important;
+    font-weight: 300;
+    text-align: center;
+
+
+}
+.dam_head{
+    padding-bottom: 20px;
+}
+.dam_item{
+    padding: 20px 10px;
+    background-color: #F4F6FC;
+    width: 300px;
+}
+.dam_item h4{
+    font-size: 36px;
+    font-weight: 600;
+    color: #1C1E53 !important;
+}
+.dam_item h4 span{
+    font-size: 16px;
+    font-weight: 600;
+    color: #2405F2 !important;
+}
+.dam_item h2{
+    font-size: 24px;
+    font-weight: 400;
+    color: #282938 !important;
+}
+.dam_item p{
+    font-size: 18px;
+    font-weight: 400;
+    color: #282938 !important;
+}
+ul {
+    text-decoration: none;
+}
+ul li{
+    padding: 20px;
+}
+ul li span{
+    padding-left: 10px;
+}
+.get{
+    text-align: center;
+}
+.get a{
+    text-decoration: none;
+    padding: 5px 20px;
+    border: 1px solid white;
+    background-color: #1C1E53;
+    color: white !important;
+    border-radius: 12px;
+}
+.dam_item_bg{
+    background-color: #1C1E53 !important;
+    padding: 20px 10px;
+    width: 300px;
+}
+.dam_item_bg h4{
+    font-size: 36px;
+    font-weight: 600;
+    color: white !important;
+}
+.dam_item_bg span{
+    font-size: 16px;
+    font-weight: 600;
+    color: #FCD980 !important;
+}
+.dam_item_bg h2{
+    font-size: 24px;
+    font-weight: 400;
+    color: white !important;
+}
+.dam_item_bg p{
+    font-size: 18px;
+    font-weight: 400;
+    color: white !important;
+}
