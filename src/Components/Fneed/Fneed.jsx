@@ -5,7 +5,7 @@ import right from '../Fneed/right.png'
 
 const Fneed = () => {
   return (
-    <section id='feature'>
+    <section id='features'>
         <Container>
             <Row>
                 <Col lg={6}>

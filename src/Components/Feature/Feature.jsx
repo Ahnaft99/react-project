@@ -18,7 +18,7 @@ const Feature = () => {
             <div className="main">
             <p>Feature</p>
             <h3>Design that solves <br />problems, one product at <br /> a time</h3>
-            </div>
+            </div>  
             
             </Col>
         </Row>
